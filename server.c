@@ -1,6 +1,6 @@
 /* 
  * server.c - An iterative server 
- * Sam Smallman, Project 4, CSCI-3240-001
+ * Project 4, CSCI-3240-001
  */ 
 /* $begin servermain */
 #include "csapp.h"
