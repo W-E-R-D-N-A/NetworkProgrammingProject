@@ -1,5 +1,6 @@
 # NetworkProgrammingProject
-My network programming project from Intro to Computer Systems
+My network programming project from Intro to Computer Systems. A simple client-server pair using socket programming in C to take an verify a username & password from the client 
+and send back data from the server (market stock value).
 
 Makefile
         "make clean; make" to compile everything
